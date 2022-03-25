@@ -10,9 +10,6 @@ email: paul@pauljmiller.com
 status: New
 ---
 
-test
-test 1
-test 2
 > a technical demo that makes the (2.8-inch 480×640 Waveshare LCD) compatible with Python/PIL rendering + touch interaction
 
 [Details](https://twitter.com/SeedSigner/status/1494778322240393224)
